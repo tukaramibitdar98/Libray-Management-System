@@ -25,7 +25,7 @@ void main()
    	
    	do
    	{
-   		printf("\n\n ***************************************************** ");
+        printf("\n\n ***************************************************** ");
      	printf("\n 1. Add book information");
      	printf("\n 2. Display book information");
      	printf("\n 3. No of books in the library");
